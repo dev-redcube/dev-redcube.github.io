@@ -6,8 +6,8 @@
 title: BetterHM
 #email: support@mobile-dev.pro
 description: Inoffizielle App für die Hochschule München
-baseurl: "/betterhm.page" # the subpath of your site, e.g. /blog
-url: "https://dev-redcube.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/dev-redcube.github.io" # the subpath of your site, e.g. /blog
+url: "https://redcube.dev" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#FF191C1D'
 #twitter_username: mobiledev_pro
 github_username:  dev-redcube
