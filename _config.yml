@@ -3,7 +3,7 @@
 # This config file contains the config of your webpages
 # You may also want to update /config/webpack.pwa.js in case you want to generate a Progressive Web App
 
-title: BetterHM
+title: Redcube Campus
 #email: support@mobile-dev.pro
 description: Inoffizielle App für die Hochschule München
 baseurl: "/dev-redcube.github.io" # the subpath of your site, e.g. /blog
